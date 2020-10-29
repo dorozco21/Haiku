@@ -5,3 +5,8 @@ in order to complete
 adding a line
 forcing a merge
 
+let's create 
+a new string
+that way I can keep
+
+
